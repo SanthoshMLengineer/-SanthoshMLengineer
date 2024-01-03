@@ -1,4 +1,4 @@
-<center><b>Hi 👋, I'm Santhosh Kumar</b></center>
+<b><h1>Hi 👋, I'm Santhosh Kumar</h1></b>
 
 ------------
 <b>Data Scientist and Machine Learning Engineer</b>
